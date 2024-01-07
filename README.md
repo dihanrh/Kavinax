@@ -32,7 +32,7 @@ Installation and running of this project to the local machine may vary the depen
 6. Go to the project directory
 
 ```bash
-  cd client
+  cd Kavinax
 
 ```
 7. Install dependencies
