@@ -49,7 +49,7 @@ const Property = () => {
             </div>
             
             <div className='w-[420px] mt-[40px] shadow-md p-[20px]'>
-                <img src={Property1} alt="" />
+                <img src={Property2} alt="" />
                 <div className='my-[20px] flex justify-between items-center relative'>
                     <div className='flex'>
                         <p className='text-[#FF5017] text-xl font-bold font-Man leading-loose'>Office Space</p>
@@ -78,7 +78,7 @@ const Property = () => {
             </div>
 
             <div className='w-[420px] mt-[40px] shadow-md p-[20px]'>
-                <img src={Property1} alt="" />
+                <img src={Property3} alt="" />
                 <div className='my-[20px] flex justify-between items-center relative'>
                     <div className='flex'>
                         <p className='text-[#FF5017] text-xl font-bold font-Man leading-loose'>Luxury Condo</p>
@@ -107,7 +107,7 @@ const Property = () => {
             </div>
 
             <div className='w-[420px] mt-[40px] shadow-md p-[20px]'>
-                <img src={Property1} alt="" />
+                <img src={Property4} alt="" />
                 <div className='my-[20px] flex justify-between items-center relative'>
                     <div className='flex'>
                         <p className='text-[#FF5017] text-xl font-bold font-Man leading-loose'>Modern Villa</p>
@@ -136,7 +136,7 @@ const Property = () => {
             </div>
 
             <div className='w-[420px] mt-[40px] shadow-md p-[20px]'>
-                <img src={Property1} alt="" />
+                <img src={Property5} alt="" />
                 <div className='my-[20px] flex justify-between items-center relative'>
                     <div className='flex'>
                         <p className='text-[#FF5017] text-xl font-bold font-Man leading-loose'>Luxury Condo</p>
@@ -165,7 +165,7 @@ const Property = () => {
             </div>
 
             <div className='w-[420px] mt-[40px] shadow-md p-[20px]'>
-                <img src={Property1} alt="" />
+                <img src={Property6} alt="" />
                 <div className='my-[20px] flex justify-between items-center relative'>
                     <div className='flex'>
                         <p className='text-[#FF5017] text-xl font-bold font-Man leading-loose'>Office Space</p>
