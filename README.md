@@ -1,6 +1,6 @@
 # Kavinax
 
-## Live Demo : cool-puffpuff-4f682d.netlify.app
+## Live Demo : [cool-puffpuff-4f682d.netlify.app](https://cool-puffpuff-4f682d.netlify.app/)
 
 ## Kavinax : Real Estate Home Page
 ![image](https://github.com/dihanrh/Kavinax/assets/98779204/f5c5f885-ea17-46a7-8a51-92f9bb2e9ba2)
